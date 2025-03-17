@@ -1,5 +1,5 @@
 Header:- 
-![Header Image]()
+![Header Image](img.png)
 # 💫 About Me:
 🔭 I’m currently working on Machine Learning Projects<br>👯 I’m looking to collaborate on building something new <br>🌱 I’m currently learning Machine Learning, DSA & Core Java<br>
 
