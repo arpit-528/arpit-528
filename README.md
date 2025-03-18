@@ -1,4 +1,11 @@
 ![Header Image](img.png)
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FFA500&width=435&lines=Hey+there!+I'm+Arpit+Gupta.;Passionate+Tech+Enthusiast!;Always+Learning+and+Building!" alt="Typing SVG" />
+  </a>
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on Machine Learning Projects<br>👯 I’m looking to collaborate on building something new <br>🌱 I’m currently learning Machine Learning, DSA & Core Java<br>
 
